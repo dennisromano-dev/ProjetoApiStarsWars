@@ -40,7 +40,7 @@ Port 8081 - definida em application.yml
 Acessando a api
 
 http://localhost:8081/api/movies = tras todos os filmes da saga 
-http://localhost:8081/api/movies/title/nome do filme = busca por nome do filme e tras todas as informações relevantes como descrição, data,
+http://localhost:8081/api/movies/title/ nome do filme = busca por nome do filme e tras todas as informações relevantes como descrição, data,
 data da criação, nome do autor, produtor, id dentre outros. 
 
 
