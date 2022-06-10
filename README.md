@@ -1,6 +1,6 @@
 # ProjetoApiStarsWars
 
-Projeto:
+# Projeto:
 
 Utilizando a API Star Wars (https://swapi.dev/), 
 •	Ao subir a aplicação, deverá ser carregado em memória a lista de filmes;
@@ -12,7 +12,7 @@ Utilizando a API Star Wars (https://swapi.dev/),
 •	A versão do filme deve retornar junto com a lista do filme;
 
 
-Pré Requisitos
+# Pré Requisitos
 
 Gradle 2.7.0
 Java 11
@@ -20,7 +20,7 @@ Spring boot
 
 ====================================================
 
-Dependencias: 
+# Dependencias: 
 
 Spring boot dev tools
 Lombok
@@ -29,13 +29,13 @@ OpenFeign
 
 ====================================================
 
-Porta para startar Api
+# Porta para startar Api
 
 Port 8081 - definida em application.yml
 
 ====================================================
 
-HTTP: 
+# HTTP: 
 
 Acessando a api
 
